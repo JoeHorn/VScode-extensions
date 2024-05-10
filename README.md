@@ -11,7 +11,7 @@
 
 ## HTML / CSS related
 * [Auto Close Tag](https://marketplace.visualstudio.com/items?itemName=formulahendry.auto-close-tag)
-* [HTML CSS Support]https://marketplace.visualstudio.com/items?itemName=ecmel.vscode-html-css)
+* [HTML CSS Support](https://marketplace.visualstudio.com/items?itemName=ecmel.vscode-html-css)
 
 ## Markdown related
 * [Markdown All in One](https://marketplace.visualstudio.com/items?itemName=yzhang.markdown-all-in-one)
