@@ -23,3 +23,4 @@
 ## PHP related
 * [PHP Intelephense](https://marketplace.visualstudio.com/items?itemName=bmewburn.vscode-intelephense-client)
 * [Twig](https://marketplace.visualstudio.com/items?itemName=whatwedo.twig)
+* [Twig Language](https://marketplace.visualstudio.com/items?itemName=mblode.twig-language)
